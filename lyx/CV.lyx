@@ -204,7 +204,7 @@ begin{center}
 
 
 \begin_inset Graphics
-	filename D:/Cito/Fotos/Cito/cito.png
+	filename ../img/cito.png
 	lyxscale 35
 	width 100line%
 
@@ -941,7 +941,7 @@ Experiencia Técnica y Práctica
 \end_layout
 
 \begin_layout Subsection*
-Software Architect en Pladema
+Pladema (2016 - Actualmente)
 \end_layout
 
 \begin_layout Standard
@@ -973,11 +973,15 @@ Desarrollador de mejoras en los sistemas de monitoreo de plantas y planificació
 \end_layout
 
 \begin_layout Subsection*
+Technisys (2015 - Actualmente)
+\end_layout
 
-\series bold
-Software & Data Architect
-\series default
- en Technisys
+\begin_layout Standard
+Integrante de distintos equipos dentro del sector de producto de Technisys.
+\end_layout
+
+\begin_layout Subsubsection*
+AIDA (2020 - Actualmente)
 \end_layout
 
 \begin_layout Standard
@@ -1013,13 +1017,23 @@ insights
  o mediante procesos batch distribuidos.
 \end_layout
 
+\begin_layout Subsubsection*
+Omnichannel-Services (2015-2019)
+\end_layout
+
 \begin_layout Standard
-Anteriormente, integrante del equipo de Producto Omnichannel-Services, enfocado
- en el desarrollo de una solución para la banca digital omnicanal siguiendo
- metodologías ágiles (Scrum).
- Enfocado al desarrollo de nueva funcionalidad en distintos módulos que
- integran dicha solución y en el diseño de nuevos módulos que se integren
- a la solución.
+Integrante del equipo de Producto Omnichannel-Services, enfocado en el desarroll
+o de una solución para la banca digital omnicanal siguiendo metodologías
+ ágiles (Scrum).
+ En los primeros años, como desarrollador, enfocado al desarrollo de nueva
+ funcionalidad en distintos módulos que integran dicha solución.
+ Luego, como 
+\emph on
+Software Architect
+\emph default
+, enforcado en el diseño de nuevos módulos que se integren a la solución,
+ buscando mejorar la performance de la misma para permitir a los bancos
+ crecer en el número de TPS.
 \end_layout
 
 \begin_layout Standard
@@ -1028,7 +1042,7 @@ Capacitación y entrenamiento de otros integrantes de la empresa, y soporte
 \end_layout
 
 \begin_layout Subsection*
-CTO de ORCO
+CTO de ORCO (2015 - 2018)
 \end_layout
 
 \begin_layout Standard
