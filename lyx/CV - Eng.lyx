@@ -297,15 +297,7 @@ status open
 
 \begin_layout Plain Layout
 \align right
-
-\emph on
-Address: 
-\emph default
-San Martín 1742 5°
-\begin_inset Newline newline
-\end_inset
-
-Tandil (7000) - Buenos Aires - Argentina
+Mar del Plata (7600) - Buenos Aires - Argentina
 \end_layout
 
 \end_inset
@@ -459,7 +451,11 @@ vspace{5pt}
 \series bold
 Software Architect
 \series default
- at Pladema.
+ at Pladema (
+\emph on
+external consultant
+\emph default
+).
 
 \series bold
  
@@ -839,6 +835,10 @@ Native
 
 \begin_layout Section*
 Work Experiences
+\end_layout
+
+\begin_layout Standard
+Main languages, frameworks or tools used:
 \end_layout
 
 \begin_layout Standard
